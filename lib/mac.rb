@@ -5,4 +5,6 @@ end
 
   version
 
+  clipboard
+
 ).each { |m| require "mac/#{m}" }
