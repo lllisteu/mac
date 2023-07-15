@@ -7,4 +7,6 @@ end
 
   clipboard
 
+  application
+
 ).each { |m| require "mac/#{m}" }
