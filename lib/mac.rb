@@ -9,4 +9,6 @@ end
 
   application
 
+  mail safari
+
 ).each { |m| require "mac/#{m}" }
