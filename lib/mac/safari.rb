@@ -1,3 +1,5 @@
+require 'mac/application'
+
 module Mac
 
   def self.safari
